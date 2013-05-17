@@ -1,0 +1,41 @@
+//fondos
+@color-fondo-navegacion: #ddd;
+@color-fondo-navegacion-impar: #eee;
+//imagenes
+@img-logo: "../img/logo_mineduc.jpg";
+@img-logo-print: "../img/logo_mineduc_print.jpg";
+
+
+//impresion
+@media print {
+	.logo-gob {
+		background-image: url(@img-logo-print) !important;
+		height: 20px !important;
+		text-indent: -999999999px;
+		display: block;
+	}
+}
+
+.logo-gob {
+	background-image: url(@img-logo);
+	
+	max-width: 180px;
+	height: 180px;
+	text-indent: -999999999px;
+	display: block;
+}
+.nav {
+	background-color: @color-fondo-navegacion;
+	height: 20px;
+	ul li {
+		float: left;
+		width: 120px;
+		list-style: none;
+		a {
+			text-decoration: none;
+		}
+	}
+} 
+
+//Responsive
+@import "mis_estilos_responsivos.less";
