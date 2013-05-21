@@ -9,35 +9,38 @@
 	<meta name="author" content="Ministerio de Educación">
 	<link href="assets/css/bootstrap.css" rel="stylesheet">
 	<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+	<link href="assets/css/demo.css" rel="stylesheet">
 </head>
 <body>
 	<div class="container-fluid">
 		<div class="row-fluid">
-			<div class="span3 well">
+			<div class="span2">
 				<div class="logo">
-					<h1>
-						Ministerio de Educación - Comunidad Escolar
-					</h1>
+					<h1>Ministerio de Educación - Comunidad Escolar</h1>
 				</div>
 			</div>
-			<div class="span9">
+			<div class="span10">
+				<div class="row-fluid cabecera-txt">
+					<div class="span5 offset7">
+						<h2>Comunidad Escolar</h2>
+					</div>
+				</div>
 				<div class="navbar">
 					<div class="navbar-inner">
 						<ul class="nav">
-							<li class="active"><a href="#">Ficha Establecimiento</a></li>
+							<li><a href="#">Ficha Establecimiento</a></li>
 							<li><a href="#">Boletines</a></li>
 							<li><a href="#">Revista de Educación</a></li>
 							<li><a href="#">Comunidad activa</a></li>
 						</ul>
 					</div>
-					
 				</div>
 			</div>
 		</div>
 		<div class="row-fluid">
-			<div class="span3 well">
+			<div class="span2">
 				<ul class="nav nav-list">
-					<li><a href="#">Reconocimineto Oficial</a></li>
+					<li class="active"><a href="#">Reconocimineto Oficial</a></li>
 					<li><a href="#">Pago subvención</a></li>
 					<li><a href="#">Inspección</a></li>
 					<li><a href="#">Procesos administrativos</a></li>
@@ -45,9 +48,43 @@
 					<li><a href="#">Acceso a sige</a></li>
 				</ul>
 			</div>
-			<div class="span9">
+			<div class="span10">
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
+					</ol>
+					<!-- Carousel items -->
+					<div class="carousel-inner">
+						<div class="active item">
+							<img src="http://placehold.it/1270x350">
+							<div class="carousel-caption">
+								<h4>Thumbnail label</h4>
+								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="http://placehold.it/1270x350/ffffff/000000">
+							<div class="carousel-caption">
+								<h4>Thumbnail label</h4>
+								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="http://placehold.it/1270x350/666666/000000">
+							<div class="carousel-caption">
+								<h4>Thumbnail label</h4>
+								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+							</div>
+						</div>
+					</div>
+					<!-- Carousel nav -->
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				</div>
 				<div id="content">
-					<h2>Reconocimiento Oficial</h2>
+					<h3>Reconocimiento Oficial</h3>
 					<p>
 						De acuerdo al Decreto N° 315, de 2010, del Ministerio de Educación y sus modificaciones, los plazos para la presentación de antecedentes para el periodo escolar 2014 según cada tipo de solicitud son los que se describen a continuación:
 					</p>
@@ -65,16 +102,14 @@
 					<p>
 						Para la presentación de antecedentes, se deben entregar los documentos especificados en la Pauta de Cotejo que se puede descargar a continuación. 
 					</p>
-					<h3>
-						Pauta de Cotejo
-					</h3>
+
+					<h4>Pauta de Cotejo</h4>
 					<p>
 						Adicionalmente, junto con los documentos especificados en la Pauta de Cotejo, se debe prese ntar la siguiente Solicitud Única con todos los antecedentes que en ella se indican.
 						<a href="#"><i class="icon-download-alt"></i> Ir al formulario</a>
 					</p>
-					<h3>
-						Solicitud única
-					</h3>
+
+					<h4>Solicitud única</h4>
 					<p>
 						Para  algunos tipos de solicitud de Reconocimiento Oficial, según lo detallado en la Pauta de cotejo, se requiere la presentación de los perfiles del personal del establecimiento. Para facilitar el cumplimiento de este requisito, se propone un Formato para estos. 
 						<a href="#"><i class="icon-download-alt"></i> Descarga nuestra hoja de cálculo</a>
@@ -86,49 +121,31 @@
 					</ul>
 					<p>
 						Los establecimientos educacionales que requieran ingresar a Jornada Escolar Completa (JEC), deberán completar y presentar la información requerida en el Formulario de Ingreso JEC. 
-						<a href="#" class="btn btn-success"><i class="icon-download-alt"></i> Descargar formulario de ingreso JEC</a>
+						<a href="#"><i class="icon-download-alt"></i> Descargar formulario de ingreso JEC</a>
 					</p>
 				</div>
 			</div>
 		</div>
-		<div class="row-fluid">
-			<div class="span12">
-				<div class="carrusel">
-					<ul>
-						<li><a href="#"><img src="http://placehold.it/100x50" alt="Imagen 01"></a></li>
-						<li><a href="#"><img src="http://placehold.it/100x50" alt="imagen 02"></a></li>
-						<li><a href="#"><img src="http://placehold.it/100x50" alt="imagen 03"></a></li>
-						<li><a href="#"><img src="http://placehold.it/100x50" alt="imagen 04"></a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="span12">
+		<div class="row-fluid footer">
+			<div class="span6 offset1">
 				<div class="datos">
 					<address>
 						Ministerio de Educación - Teléfono +56 2 24066000 - Dirección Av. Libertador Bernardo O'Higgins 1371
 					</address>
-
-					<ul>
-						<li><a href="#">
-							Políticas de Privacidad
-						</a></li>
-						<li><a href="#">
-							Visualizadores & Plug-ins
-						</a></li>
-						<li><a href="#">
-							DS100
-						</a></li>
-						<li><a href="#">
-							HTML5
-						</a></li>
-						<li><a href="#">
-							CSS3
-						</a></li>
-					</ul>
 				</div>
+			</div>
+			<div class="span5">
+				<ul class="nav-footer">
+					<li><a href="#">Políticas de Privacidad</a></li>
+					<li><a href="#">Visualizadores & Plug-ins</a></li>
+					<li><a href="#">D.S. 100</a></li>
+					<li><a href="#">HTML 4.01</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
-	
+	<!-- javascripts -->
+	<script type="text/javascript" src="assets/js/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 </body>
 </html>
