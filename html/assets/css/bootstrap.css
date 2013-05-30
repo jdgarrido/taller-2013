@@ -1,5 +1,5 @@
 /*!
- * Bootstrap v2.3.1
+ * Bootstrap v2.3.2
  *
  * Copyright 2012 Twitter, Inc
  * Licensed under the Apache License v2.0
@@ -263,6 +263,13 @@ a:focus {
           border-radius: 500px;
 }
 
+.logito{
+	background-image:url(../img/header6.jpg);
+	width:600px;
+	height:300;
+	display:
+}
+
 .row {
   margin-left: -20px;
   *zoom: 1;
@@ -329,7 +336,7 @@ a:focus {
 }
 
 .span3 {
-  width: 220px;
+  width: 600px;
 }
 
 .span2 {
@@ -1397,7 +1404,7 @@ textarea.span4,
 input.span3,
 textarea.span3,
 .uneditable-input.span3 {
-  width: 206px;
+  width: 600px;
 }
 
 input.span2,
@@ -2174,7 +2181,7 @@ table th[class*="span"],
 .table td.span3,
 .table th.span3 {
   float: none;
-  width: 204px;
+  width: 600px;
   margin-left: 0;
 }
 
@@ -3007,6 +3014,15 @@ table th[class*="span"],
 
 .open > .dropdown-menu {
   display: block;
+}
+
+.dropdown-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 990;
 }
 
 .pull-right > .dropdown-menu {
@@ -6156,3 +6172,10 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+
+
+.footer {
+	width:650px;
+	float:left;
+	height:100px;
+	}
