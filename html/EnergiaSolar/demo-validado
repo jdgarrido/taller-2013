@@ -1,8 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML >
 <html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<title>Aplicaciones Energía Solar - Energía Solar</title>
+	
 	<meta name="keywords" content="docente, directores, alumnos, subvencion, beneficio">
 	<meta name="description" content="Información destinada a ciudadanos que desean utilizar la energia solar como energia alternativa">
 	<meta name="author" content="Ministerio de Educación">
@@ -11,29 +12,22 @@
 	<link href="../assets/css/demo.css" rel="stylesheet">
 </head>
 <body>
-
-	
-
-
 	<div class="container-fluid">
-
-		<div class="row-fluid">
-			<div class="span12">
-				<img src="../assets/img/EnergiaSolar/top.jpg" alt="logo">
-			</div>
-		</div>	
 		<div class="row-fluid">
 			<div class="span2">
 				<div class="logo">
 					<h1>Aplicaciones Energía Solar - Energía Solar</h1>
 				</div>
+</div>
+</div>
 			</div>
 
-			<div class="span10">
+			<div class="span9">
 				<div class="row-fluid">
 					<div class="span4 offset8">
 						<h2>Energía Solar</h2>
 					</div>
+</div>
 					<div class="span12">
 						<div class="navbar">
 							<div class="navbar-inner">
@@ -45,49 +39,22 @@
 								</ul>
 							</div>
 						</div>
-					</div>
-			</div>
-		</div>
-		</div>
 
+
+		</div>
 		<div class="row-fluid">
 			<div class="span2">
-
-				 <form class="input-medium">
-					<p>Acceso a Intranet</p>
-				    <div class="control-group">
-				   		<label class="control-label" for="inputEmail">Usuario</label>
-					    <div class="controls">
-					    	<input type="text" id="inputEmail" placeholder="Email">
-					    </div>
-				    </div>
-				    <div class="control-group">
-					    <label class="control-label" for="inputPassword">Contraseña</label>
-					    <div class="controls">
-					    	<input type="password" id="inputPassword" placeholder="Password">
-				    	</div>
-				    </div>
-				    <div class="control-group">
-				    	<div class="controls">
-						    <label class="checkbox">
-						    	<input type="checkbox"> Recordarme
-					    	</label>
-					   		 <button type="submit" class="btn">Ingresar</button>
-				   		</div>
-				    </div>
-				   </form>
-
 				<ul class="nav nav-list">
 					<li class="active"><a href="#">Sitios de Interes</a></li>
 					<li><a href="#">Documentos</a></li>
 					<li><a href="#">Proyectos Nacionales </a></li>
 					<li><a href="#"></a></li>
 					<li><a href="holamundo.html" accesskey="m" title="Marco legal (Alt + m)">Marco legal</a></li>
-		
+
 				</ul>
 			</div>
 			<div class="span10">
-			
+
 				<div id="content">
 
 
@@ -123,12 +90,12 @@
 					<h3>Introducción</h3>
 
 					<p>
-						La energía solar es la energía obtenida a partir del aprovechamiento de la radiación electromagnética procedente del Sol.
-La radiación solar que alcanza la Tierra ha sido aprovechada por el ser humano desde la Antigüedad, mediante diferentes tecnologías que han ido evolucionando con el tiempo desde su concepción. En la actualidad, el calor y la luz del Sol puede aprovecharse por medio de captadores como células fotovoltaicas, helióstatos o colectores térmicos, que pueden transformarla en energía eléctrica o térmica. Es una de las llamadas energías renovables o energías limpias, que puede hacer considerables contribuciones a resolver algunos de los más urgentes problemas que afronta la Humanidad.1
-Las diferentes tecnologías solares se clasifican en pasivas o activas en función de la forma en que capturan, convierten y distribuyen la energía solar. Las tecnologías activas incluyen el uso de paneles fotovoltaicos y colectores térmicos para recolectar la energía. Entre las técnicas pasivas, se encuentran diferentes técnicas enmarcadas en la arquitectura bioclimática: la orientación de los edificios al Sol, la selección de materiales con una masa térmica favorable o que tengan propiedades para la dispersión de luz, así como el diseño de espacios mediante ventilación natural.
-En 2011, la Agencia Internacional de la Energía se expresó en los siguientes términos: "el desarrollo de tecnologías solares limpias, baratas e inagotables supondrá un enorme beneficio a largo plazo. Aumentará la seguridad energética de los países mediante el uso de una fuente de energía local, inagotable y, aun más importante, independendiente de importaciones, aumentará la sostenibilidad, reducirá la contaminación, disminuirá los costes de la mitigación del cambio climático, y evitará la subida excesiva de los precios de los combustibles fósiles. Estas ventajas son globales. De esta manera, los costes para su incentivo y desarrollo deben ser considerados inversiones; deben ser realizadas de forma sabia y deben ser ampliamente difundidas".1
-La fuente de energía solar más desarrollada en la actualidad es la energía solar fotovoltaica. Según informes de la organización ecologista Greenpeace, la energía solar fotovoltaica podría suministrar electricidad a dos tercios de la población mundial en 2030.2
-Actualmente, y gracias a los avances tecnológicos, la sofisticación y la economía de escala, el coste de la energía solar fotovoltaica se ha reducido de forma constante desde que se fabricaron las primeras células solares comerciales,3 aumentando a su vez la eficiencia, y su coste medio de generación eléctrica ya es competitivo con las fuentes de energía convencionales en un creciente número de regiones geográficas, alcanzando la paridad de red.4 5 Otras tecnologías solares, como la energía solar termoeléctrica está reduciendo sus costes también de forma considerable.
+						La energía solar es la energía obtenida a partir del aprovechamiento de la radiación electromagnética procedente del Sol.
+La radiación solar que alcanza la Tierra ha sido aprovechada por el ser humano desde la Antigüedad, mediante diferentes tecnologías que han ido evolucionando con el tiempo desde su concepción. En la actualidad, el calor y la luz del Sol puede aprovecharse por medio de captadores como células fotovoltaicas, helióstatos o colectores térmicos, que pueden transformarla en energía eléctrica o térmica. Es una de las llamadas energías renovables o energías limpias, que puede hacer considerables contribuciones a resolver algunos de los más urgentes problemas que afronta la Humanidad.1
+Las diferentes tecnologías solares se clasifican en pasivas o activas en función de la forma en que capturan, convierten y distribuyen la energía solar. Las tecnologías activas incluyen el uso de paneles fotovoltaicos y colectores térmicos para recolectar la energía. Entre las técnicas pasivas, se encuentran diferentes técnicas enmarcadas en la arquitectura bioclimática: la orientación de los edificios al Sol, la selección de materiales con una masa térmica favorable o que tengan propiedades para la dispersión de luz, así como el diseño de espacios mediante ventilación natural.
+En 2011, la Agencia Internacional de la Energía se expresó en los siguientes términos: "el desarrollo de tecnologías solares limpias, baratas e inagotables supondrá un enorme beneficio a largo plazo. Aumentará la seguridad energética de los países mediante el uso de una fuente de energía local, inagotable y, aun más importante, independendiente de importaciones, aumentará la sostenibilidad, reducirá la contaminación, disminuirá los costes de la mitigación del cambio climático, y evitará la subida excesiva de los precios de los combustibles fósiles. Estas ventajas son globales. De esta manera, los costes para su incentivo y desarrollo deben ser considerados inversiones; deben ser realizadas de forma sabia y deben ser ampliamente difundidas".1
+La fuente de energía solar más desarrollada en la actualidad es la energía solar fotovoltaica. Según informes de la organización ecologista Greenpeace, la energía solar fotovoltaica podría suministrar electricidad a dos tercios de la población mundial en 2030.2
+Actualmente, y gracias a los avances tecnológicos, la sofisticación y la economía de escala, el coste de la energía solar fotovoltaica se ha reducido de forma constante desde que se fabricaron las primeras células solares comerciales,3 aumentando a su vez la eficiencia, y su coste medio de generación eléctrica ya es competitivo con las fuentes de energía convencionales en un creciente número de regiones geográficas, alcanzando la paridad de red.4 5 Otras tecnologías solares, como la energía solar termoeléctrica está reduciendo sus costes también de forma considerable.
 					</p>
 
 					<h3>TIPOS DE ENERGIA SOLAR</h3>
@@ -144,30 +111,19 @@ Actualmente, y gracias a los avances tecnológicos, la sofisticación y la econo
 					Clasificación por tecnologías y su correspondiente uso más general:
 				</p>
 					<ol>
-<<<<<<< HEAD
-					Energía solar activa: para uso de baja temperatura (entre 35 °C y 60 °C), se utiliza en casas; de media temperatura, alcanza los 300 °C; y de alta temperatura, llega a alcanzar los 2000 °C. Esta última, se consigue al incidir los rayos solares en espejos, que van dirigidos a un reflector que lleva a los rayos a un punto concreto. También puede ser por centrales de torre y por espejos parabólicos.
-					<li>Energía solar pasiva: Aprovecha el calor del sol sin necesidad de mecanismos o sistemas mecánicos.
-					<li>Energía solar térmica: Es usada para producir agua caliente de baja temperatura para uso sanitario y calefacción.
-					<li>Energía solar fotovoltaica: Es usada para producir electricidad mediante placas de semiconductores que se alteran con la radiación solar.
-					<li>Energía solar termoeléctrica: Es usada para producir electricidad con un ciclo termodinámico convencional a partir de un fluido calentado a alta temperatura (aceite térmico).
-					<li>Energía solar híbrida: Combina la energía solar con otra energía. Según la energía con la que se combine es una hibridación:
-					<li>Renovable: biomasa, energía eólica.27
-					<li>No renovable: Combustible fósil.
-					<li>Energía eólico solar: Funciona con el aire calentado por el sol, que sube por una chimenea donde están los generadores.
-=======
-					<li>Energía solar activa: para uso de baja temperatura (entre 35 °C y 60 °C), se utiliza en casas; de media temperatura, alcanza los 300 °C; y de alta temperatura, llega a alcanzar los 2000 °C. Esta última, se consigue al incidir los rayos solares en espejos, que van dirigidos a un reflector que lleva a los rayos a un punto concreto. También puede ser por centrales de torre y por espejos parabólicos.
-					</li>	
+					<li>Energía solar activa: para uso de baja temperatura (entre 35 °C y 60 °C), se utiliza en casas; de media temperatura, alcanza los 300 °C; y de alta temperatura, llega a alcanzar los 2000 °C. Esta última, se consigue al incidir los rayos solares en espejos, que van dirigidos a un reflector que lleva a los rayos a un punto concreto. También puede ser por centrales de torre y por espejos parabólicos.</li>
 					<li>Energía solar pasiva: Aprovecha el calor del sol sin necesidad de mecanismos o sistemas mecánicos.</li>
-					<li>Energía solar térmica: Es usada para producir agua caliente de baja temperatura para uso sanitario y calefacción.</li>
+					<li>Energía solar térmica: Es usada para producir agua caliente de baja temperatura para uso sanitario y calefacción.
+</li>
 					<li>Energía solar fotovoltaica: Es usada para producir electricidad mediante placas de semiconductores que se alteran con la radiación solar.
 					</li>
+
 					<li>Energía solar termoeléctrica: Es usada para producir electricidad con un ciclo termodinámico convencional a partir de un fluido calentado a alta temperatura (aceite térmico).
 						</li>
 					<li>Energía solar híbrida: Combina la energía solar con otra energía. Según la energía con la que se combine es una hibridación:</li>
 					<li>Renovable: biomasa, energía eólica.27</li>
 					<li>No renovable: Combustible fósil.</li>
 					<li>Energía eólico solar: Funciona con el aire calentado por el sol, que sube por una chimenea donde están los generadores.</li>
->>>>>>> 81eb9337ef1278a1c071e431a860c1feca818fb2
 					</ol>
 
 
