@@ -265,9 +265,11 @@ a:focus {
 
 .logito{
 	background-image:url(../img/header6.jpg);
-	width:600px;
-	height:300;
-	display:
+	background-repeat:no-repeat;
+	width:890px;
+	height:200;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:right;
 }
 
 .row {
@@ -313,6 +315,7 @@ a:focus {
 
 .span9 {
   width: 700px;
+  margin-top:0px;
 }
 
 .span8 {
