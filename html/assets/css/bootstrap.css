@@ -228,6 +228,7 @@ body {
   line-height: 20px;
   color: #333333;
   background-color: #ffffff;
+  text-align: center;
 }
 
 a {
@@ -642,9 +643,9 @@ a:focus {
 }
 
 .container-fluid {
-  padding-right: 20px;
-  padding-left: 20px;
-  *zoom: 1;
+	width: 70%;
+  margin: 0 auto;
+ *zoom: 1;
 }
 
 .container-fluid:before,
